@@ -1,0 +1,5 @@
+{
+    "C_Cpp.autoAddFileAssociations": false,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+}
